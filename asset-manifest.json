@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Navoj/static/js/main.c7f79063.chunk.js",
+    "main.js.map": "/Navoj/static/js/main.c7f79063.chunk.js.map",
+    "runtime-main.js": "/Navoj/static/js/runtime-main.457927c6.js",
+    "runtime-main.js.map": "/Navoj/static/js/runtime-main.457927c6.js.map",
+    "static/css/2.54370922.chunk.css": "/Navoj/static/css/2.54370922.chunk.css",
+    "static/js/2.25a9da14.chunk.js": "/Navoj/static/js/2.25a9da14.chunk.js",
+    "static/js/2.25a9da14.chunk.js.map": "/Navoj/static/js/2.25a9da14.chunk.js.map",
+    "index.html": "/Navoj/index.html",
+    "static/css/2.54370922.chunk.css.map": "/Navoj/static/css/2.54370922.chunk.css.map",
+    "static/js/2.25a9da14.chunk.js.LICENSE.txt": "/Navoj/static/js/2.25a9da14.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.457927c6.js",
+    "static/css/2.54370922.chunk.css",
+    "static/js/2.25a9da14.chunk.js",
+    "static/js/main.c7f79063.chunk.js"
+  ]
+}
