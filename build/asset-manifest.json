@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/nexGymT/static/js/main.f21d8f1f.chunk.js",
-    "main.js.map": "/nexGymT/static/js/main.f21d8f1f.chunk.js.map",
-    "runtime-main.js": "/nexGymT/static/js/runtime-main.79ddd724.js",
-    "runtime-main.js.map": "/nexGymT/static/js/runtime-main.79ddd724.js.map",
-    "static/css/2.54370922.chunk.css": "/nexGymT/static/css/2.54370922.chunk.css",
-    "static/js/2.2c496975.chunk.js": "/nexGymT/static/js/2.2c496975.chunk.js",
-    "static/js/2.2c496975.chunk.js.map": "/nexGymT/static/js/2.2c496975.chunk.js.map",
-    "index.html": "/nexGymT/index.html",
-    "static/css/2.54370922.chunk.css.map": "/nexGymT/static/css/2.54370922.chunk.css.map",
-    "static/js/2.2c496975.chunk.js.LICENSE.txt": "/nexGymT/static/js/2.2c496975.chunk.js.LICENSE.txt"
+    "main.js": "/Navoj/static/js/main.c7f79063.chunk.js",
+    "main.js.map": "/Navoj/static/js/main.c7f79063.chunk.js.map",
+    "runtime-main.js": "/Navoj/static/js/runtime-main.457927c6.js",
+    "runtime-main.js.map": "/Navoj/static/js/runtime-main.457927c6.js.map",
+    "static/css/2.54370922.chunk.css": "/Navoj/static/css/2.54370922.chunk.css",
+    "static/js/2.25a9da14.chunk.js": "/Navoj/static/js/2.25a9da14.chunk.js",
+    "static/js/2.25a9da14.chunk.js.map": "/Navoj/static/js/2.25a9da14.chunk.js.map",
+    "index.html": "/Navoj/index.html",
+    "static/css/2.54370922.chunk.css.map": "/Navoj/static/css/2.54370922.chunk.css.map",
+    "static/js/2.25a9da14.chunk.js.LICENSE.txt": "/Navoj/static/js/2.25a9da14.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.79ddd724.js",
+    "static/js/runtime-main.457927c6.js",
     "static/css/2.54370922.chunk.css",
-    "static/js/2.2c496975.chunk.js",
-    "static/js/main.f21d8f1f.chunk.js"
+    "static/js/2.25a9da14.chunk.js",
+    "static/js/main.c7f79063.chunk.js"
   ]
 }
